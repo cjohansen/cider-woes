@@ -22,6 +22,12 @@ GNU Emacs 26.1 (build 1, x86_64-apple-darwin14.5.0, NS appkit-1348.17 Version 10
 cider-20180903.2111
 ```
 
+Also tried with
+
+```
+cider-20181030.2222
+```
+
 ## Details
 
 The last message from nREPL in `*messages*` is:
