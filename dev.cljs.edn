@@ -1,0 +1,5 @@
+{:main "woes.dev"
+ :optimizations :none
+ :pretty-print true
+ :target :nodejs
+ :source-map true}

@@ -1,0 +1,5 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.9.0"}
+        org.clojure/clojurescript {:mvn/version "1.10.339"}}
+ :aliases {:dev {:extra-deps {com.bhauman/figwheel-main {:mvn/version "0.2.0-SNAPSHOT"}}
+                 :main-opts ["-m" "figwheel.main" "--build" "dev" "--repl"]}}}
